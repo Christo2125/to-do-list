@@ -1,0 +1,16 @@
+.footer{
+    list-style: 90px;
+    margin-top: 40vh;
+    position: fixed;
+    top: 50vh;
+    display: flex;
+    width: 100%;
+}
+#input{
+    width: 55%;
+}
+
+*{
+    background-color: rgb(49, 51, 52);
+    color: white;
+}
